@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I am Al amin From studying in Glocal University in India parsuing computer science and engineering
 <!--
 **alaminthespecial/alaminthespecial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 style="color:red;">this is readme </h1>
