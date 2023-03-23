@@ -61,7 +61,7 @@
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/alaminthespecial/github-profile-views-counter">
+<a href="https://github.com/alaminthespecial/">
     <img src="https://komarev.com/ghpvc/?username=alaminthespecial">
 </a>
 <a href="https://github.com/alaminthespecial?tab=followers"><img src="https://img.shields.io/github/followers/alaminthespecial?label=Followers&style=social" alt="GitHub Badge"></a>
