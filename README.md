@@ -44,7 +44,7 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/alaminthespecial"><img alt="alaminthespecial's Github Stats" src="https://github-readme-stats.vercel.app/api?username=alaminthespecial&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/alaminthespecial/alaminthespecial"><img alt="alaminthespecial's Github Stats" src="https://github-readme-stats.vercel.app/api?username=alaminthespecial&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
  
 
 
@@ -56,14 +56,12 @@
 <p align="left">
 
 <a href = "#/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "#"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "#/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "#"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+
 
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<a href="https://github.com/alaminthespecial/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=alaminthespecial">
 </a>
 <a href="https://github.com/alaminthespecial?tab=followers"><img src="https://img.shields.io/github/followers/alaminthespecial?label=Followers&style=social" alt="GitHub Badge"></a>
