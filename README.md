@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **[A FOOD DELIVARY APP]()**
 
-- 🌱 I’m currently learning **Backend Development using Django Framework**
+- 🌱 I’m currently learning **Backend Development**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
