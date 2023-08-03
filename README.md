@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[A FOOD DELIVARY APP]()**
+- 🔭 I’m currently working on **[A FOOD DELIVARY APP ]()**
 
 - 🌱 I’m currently learning **Backend Development**
 
