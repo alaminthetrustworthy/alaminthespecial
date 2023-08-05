@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://alaminthespecial.me/))**
+- 👨‍💻 All of my projects are available at **[my portfolio](https://alaminthespecial.me/))**
 
 - 📫 How to reach me **alaminthespecial@gmail.com**
 
